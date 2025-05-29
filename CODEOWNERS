@@ -1,0 +1,7 @@
+# Core functionality - changes here should be rare!
+/src/app.py                   @browntec
+/src/backend/database.py      @browntec
+/src/backend/routers/auth.py  @browntec
+
+# The frontend will need refactored soon to be more object oriented.
+/src/static/   @browntec
